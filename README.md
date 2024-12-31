@@ -1,3 +1,4 @@
+# NOTICE: This project is no longet actively maintained by me :(
 # Chess-Ai-Training
  Chess ai training using tensorflow
 # Install Jupyter notebook
