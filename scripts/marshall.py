@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import tensorflow as tf
 from IPython.display import clear_output
-path_to_model = 'C:/Users/dragon/Documents/Chess-Ai-Training/latest_model/marshall'
+path_to_model = 'D:/AI/Chess-Ai-Training/latest_model/marshall'
 
 global model
 model = tf.saved_model.load(path_to_model)
